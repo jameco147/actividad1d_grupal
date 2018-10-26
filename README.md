@@ -1,4 +1,4 @@
-## actividad1d_grupal
+### actividad1d_grupal
 
 Eugenio Domenech @eudoal 
 Jose María Gómez @jgomgi
