@@ -1,5 +1,5 @@
-# actividad1d_grupal
+## actividad1d_grupal
 
 Eugenio Domenech @eudoal 
-Jose María Gómez
+Jose María Gómez @jgomgi
 Javier Merino
