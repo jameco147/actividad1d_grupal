@@ -1,3 +1,3 @@
 ### actividad1d_grupal
 
-@eudoal
+@eudoal Eugenio Domenech
