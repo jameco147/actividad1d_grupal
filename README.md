@@ -2,4 +2,4 @@
 
 Eugenio Domenech @eudoal 
 Jose María Gómez @jgomgi
-Javier Merino
+> Javier Merino
