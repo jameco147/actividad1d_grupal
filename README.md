@@ -1,3 +1,5 @@
 ### actividad1d_grupal
 
-"@eudoal" Eugenio Domenech
+- Eugenio Domenech
+- Jose María Gómez
+- Javier Merino
